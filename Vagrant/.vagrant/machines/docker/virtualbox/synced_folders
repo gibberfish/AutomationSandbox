@@ -1,0 +1,1 @@
+{"virtualbox":{"/docker":{"guestpath":"/docker","hostpath":"E:/dev/checkout/AutomationSandbox/Docker","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/dev/checkout/AutomationSandbox/Vagrant","disabled":false,"__vagrantfile":true}}}
